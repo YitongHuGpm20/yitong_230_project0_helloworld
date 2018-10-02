@@ -79,6 +79,8 @@ int main()
 	cout << endl;
 	cout << "Hello world!" << endl;
 	cout << "Please maximize the window to see the whole picture!" << endl;
+	cout << endl;
+	cout << endl;
 	system("pause");
 	return 0;
 }
